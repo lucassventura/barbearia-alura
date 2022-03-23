@@ -1,0 +1,66 @@
+#banner {
+    width: 100%;
+}
+
+.principal {
+    background:black;
+    padding-bottom: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
+
+h1 {
+    background: black;
+    padding-left: 20px;
+    text-align: left;
+    font-size: 50px;
+    color: white;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+    
+}
+
+em strong {
+    color: burlywood;
+}
+
+p {
+    text-align: center;
+    font-size: 20px
+}
+
+#missao {
+    font-size: 20px;
+}
+
+h2 {
+    text-align: center;
+    font-size: 40px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.imagemBeneficios {
+    width: 50%;
+}
+
+.beneficios {
+    background: burlywood;
+    padding: 20px;
+}
+
+h3 {
+    font-size: 50px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.itens {
+    font-style: italic;
+    font-size: 35px;
+    font-family: 'Courier New', Courier, monospace;
+}
